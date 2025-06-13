@@ -11,11 +11,11 @@
 <br>
 <img src="https://github.com/user-attachments/assets/7001122e-4cb8-4ace-9154-4474b6381f40" width="800" />  
 <br>
-***
+
 <aside>
 🌲 원영적 사고를 이은 인서적 사고
 </aside>
-
+***
 ### 🎁 주요 기능
 
 - 입력 문구에 반응하여 감정 없는 무지성 공감형 문구를 출력해주는 유머 기반 챗봇 웹
