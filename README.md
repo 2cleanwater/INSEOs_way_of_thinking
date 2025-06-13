@@ -5,7 +5,7 @@
 ## ✨ 프로젝트 소개
 
 <aside>
-🐱 GitHub : [https://github.com/2cleanwater/INSEOs_way_of_thinking](https://github.com/2cleanwater/INSEOs_way_of_thinking)
+🐱 GitHub : (https://github.com/2cleanwater/INSEOs_way_of_thinking)
 
 </aside>
 
