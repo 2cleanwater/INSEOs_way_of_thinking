@@ -10,6 +10,7 @@
 
 
 ![mainim](https://github.com/user-attachments/assets/7001122e-4cb8-4ace-9154-4474b6381f40){: width="60%" height="100%"}
+<img src="https://github.com/user-attachments/assets/7001122e-4cb8-4ace-9154-4474b6381f40" width="650" height="400" />
 
 <aside>
 🌲 원영적 사고를 이은 인서적 사고
