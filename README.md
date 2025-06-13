@@ -5,11 +5,11 @@
 ## ✨ 프로젝트 소개
 
 <aside>
-🐱 GitHub : (https://github.com/2cleanwater/INSEOs_way_of_thinking)
+🐱 GitHub : https://github.com/2cleanwater/INSEOs_way_of_thinking
 
 </aside>
 
-![KakaoTalk_20240705_125105021.png](KakaoTalk_20240705_125105021.png)
+![mainim](https://github.com/user-attachments/assets/7001122e-4cb8-4ace-9154-4474b6381f40)
 
 <aside>
 🌲 원영적 사고를 이은 인서적 사고
