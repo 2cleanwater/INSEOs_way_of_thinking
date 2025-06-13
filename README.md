@@ -6,8 +6,8 @@
 
 <aside>
 🐱 GitHub : https://github.com/2cleanwater/INSEOs_way_of_thinking
-
 </aside>
+
 
 ![mainim](https://github.com/user-attachments/assets/7001122e-4cb8-4ace-9154-4474b6381f40)
 
