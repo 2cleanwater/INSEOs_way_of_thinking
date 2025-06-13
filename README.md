@@ -7,12 +7,11 @@
 <aside>
 🐱 GitHub : https://github.com/2cleanwater/INSEOs_way_of_thinking
 </aside>  
-
+<br>
 <img src="https://github.com/user-attachments/assets/7001122e-4cb8-4ace-9154-4474b6381f40" width="800" />  
-
+<br>
 <aside>
 🌲 원영적 사고를 이은 인서적 사고
-
 </aside>
 
 ### 🎁 주요 기능
